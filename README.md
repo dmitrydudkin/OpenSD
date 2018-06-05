@@ -231,10 +231,8 @@ You can download many ROSBAG files for research and development of self-driving 
 
 ## Contact
 
-Autoware Developers (<autoware@googlegroups.com>)
+OpenStreetDrone Developers (<openstreetdrone@googlegroups.com>)
 
-Autoware Developers Slack Team (https://autoware.herokuapp.com/)
-
-To subscribe to the Autoware Developers mailing list,
-- If you have a Google account, go to https://groups.google.com/d/forum/autoware, and click the **Apply to Join Group** button.
-- If you don't have a Google account, send an email to autoware+subscribe@googlegroups.com.
+To subscribe to the OpenStreetDrone Developers mailing list,
+- If you have a Google account, go to https://groups.google.com/d/forum/openstreetdrone, and click the **Apply to Join Group** button.
+- If you don't have a Google account, send an email to openstreetdrone+subscribe@googlegroups.com.
