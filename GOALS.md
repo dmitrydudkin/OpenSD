@@ -18,11 +18,11 @@ The main OpenStreetDrone code base should always maintain a high degree of code 
 ## Simplicity
 To make rapid progress possible, we try to keep the code relatively easy to understand, even though robotics and autonomous driving is complicated. We follow the design philosophy that each component (ROS node) should do one thing and do it well.  We try to use straightforward, well understood interfaces, algorithms and data structures when possible, we try to write clear, maintainable code, and we continue to improve names and code structure to aid understanding. When tricky “rocket science” code is truly needed to solve some problem, we try to keep it bottled up behind clean interfaces. In addition, we make heavy use of automated regression tests as a safety net, to allow aggressive changes with less risk of regressions.
 
+## Security
+Security is important, therefore we will seek to ensure that the software cannot be hacked or exploited by a third party.
+
 ## Performance
 Performance is an important but secondary goal.  The software should be performant enough to run at sufficiently high frequencies on the Nvidia PX2 for normal operation.
-
-## Security
-Security is an important but secondary goal. We will seek to ensure that the software cannot be hacked or exploited by a third party.
 
 # Out of scope
 There are a few points which we consider out of scope for the project:
